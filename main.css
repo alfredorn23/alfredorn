@@ -1,0 +1,37 @@
+h1{
+	color: blue;
+}
+h2{
+	color: maroon;
+}
+h3{
+	font-weight: bold;
+}
+div {
+
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  border: 5px solid black;
+  
+
+}
+mark.red {
+    color:#ff0000;
+    background: none;
+}
+mark.blue{
+	color:#0000A0;
+    background: none;
+    font-style: italic;
+}
+strong{
+	color: red;
+}
+em{
+ color: blue;
+}
+ul{
+	color: lightgreen;
+}
